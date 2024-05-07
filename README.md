@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan Mincieli!
 
-Business Analytics and Information Systems Student at the University of Iowa 2024 Graduate 
+Business Analytics and Information Systems and Finance Student at the University of Iowa 2024 Graduate 
 
 [![University of Iowa](https://img.shields.io/badge/University%20of%20Iowa-Student-blue)](https://www.uiowa.edu/)
 
