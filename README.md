@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan Mincieli! 🇺🇲 💵 
+# Hi, I'm Jonathan Mincieli!
 
 Business Analytics and Information Systems Student at the University of Iowa 2024 Graduate 
 
@@ -24,7 +24,6 @@ Business Analytics and Information Systems Student at the University of Iowa 202
 
 ## Connect with Me! ⤵️
 
-**Website URL:** https://nickbutzler.com/
-**Linkedln Porfile:**(https://www.linkedin.com/in/nick-butzler-27878a1ba/)
+**Website URL:** https://jonathanmincieli.me
 
 Thank you for visiting my profile!
